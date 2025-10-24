@@ -1,0 +1,24 @@
+.thumbnail{
+    width: 350px;
+    display: block;
+    
+}
+.preview{
+    vertical-align: top;
+    margin-right: 15px;
+    width: 350px;
+    display: inline-block;
+}
+.title{
+    width: 350px;
+    font-weight: bold;
+}
+.search{
+    display: block;
+}
+.name{
+    
+}
+.stat{
+   
+}
